@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>c</key>
+	<array>
+		<string>cabin</string>
+		<string>car</string>
+		<string>career</string>
+		<string>celebrate</string>
+		<string>cyclone</string>
+	</array>
+	<key>b</key>
+	<array>
+		<string>back</string>
+		<string>beach</string>
+		<string>boat</string>
+		<string>boy</string>
+	</array>
+	<key>a</key>
+	<array>
+		<string>abaddon</string>
+		<string>abaft</string>
+		<string>abandoning</string>
+		<string>acarus</string>
+		<string>accelerator</string>
+		<string>again</string>
+		<string>android</string>
+		<string>annotation</string>
+		<string>atlantic</string>
+	</array>
+</dict>
+</plist>
